@@ -1,0 +1,21 @@
+'na pewno nie będzie na kolokwium'
+'<img style="height:278pt; width:507pt;" src="C:/Users/marci/AppData/Local/Temp/Calcpad/Images/{B044F565-02BD-4742-A3AD-459BC5C47643}.png" alt="{B044F565-02BD-4742-A3AD-459BC5C47643}.png">
+Re = 235MPa
+x_e = 1.6
+A = 1860mm^2
+g = 12mm
+c = 130mm
+e = 50mm
+
+k_r = Re/x_e|MPa
+σ = P/A
+P = k_r*A'= σ*A'
+k_t = 0.65*k_r
+a = 0.7*g
+'σ_r = P/(l_c*a)<= k_t; lc=l1+l2'
+l_c = P/(k_t*a)
+'l1*e=l2*(c-e)'
+l_2 = 5/13*l_c
+l_1 = l_2*(c - e)/e
+l_1rz = l_1 + 2*1.5*g'rzeczywista długość spoiny'
+l_2rz = l_2 + 2*1.5*g
