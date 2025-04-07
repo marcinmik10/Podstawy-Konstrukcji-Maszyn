@@ -1,0 +1,16 @@
+'<img style="height:399pt; width:878pt;" src="./Images/zad3.3.png" alt="zad3.3.png">
+
+D = 90mm
+L = 70mm
+L1 = 38mm
+P = 20kN
+p_dop = 25MPa
+kg = 150MPa
+"Nacisk"
+'A = d*L1'
+d_min1 = P/L1/p_dop|mm
+"Zginanie"
+Mg_max = P/2*L/2
+'σ = Mg_max*32/pi/d_min2^3'
+d_min2 = (Mg_max*32/pi/kg)^(1/3)|mm
+"Dobieramy d = 30 mm"
