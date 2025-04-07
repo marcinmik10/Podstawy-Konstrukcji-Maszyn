@@ -1,0 +1,6 @@
+'<img style="height:166pt; width:457pt;" src="./Images/zad3.4.png" alt="zad3.4.png">
+M_s = 20Nm
+d = 20mm
+L = 16mm
+a = 14mm
+P = 6*M_s/(a^2*L)

@@ -1,0 +1,16 @@
+'<img style="height:214pt; width:466pt;" src="C:/Users/marci/Documents/git/Inventor/Inventor/Podstawy_Konstrukcji_Maszyn/Projekt2_temat4.1/zadania ćwiczeniowe/Images/zad3.1.png" alt="zad3.1.png">
+Ms = 55Nm
+d_w = 30mm
+
+
+p_dop335 = 105MPa
+k_tj335 = 60MPa
+p_dop360 = 120MPa
+k_tj360 = 68MPa
+
+d_k = sqrt(4*Ms/(pi*d_w*k_tj360))
+'między kołkiem a czopem'
+P = 6*Ms/(d_w^2*d_k)
+'między kołkiem a piastą'
+d_p = sqrt(4*Ms/(pi*d_w*k_tj335) + d_n^2)
+P = 4*Ms/((d_p^2 - d_w^2)*d_k)

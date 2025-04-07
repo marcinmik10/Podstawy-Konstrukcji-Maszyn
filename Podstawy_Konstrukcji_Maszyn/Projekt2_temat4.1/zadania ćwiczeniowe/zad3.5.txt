@@ -1,0 +1,17 @@
+'<img style="height:392pt; width:357pt;" src="./Images/zad3.5.png" alt="zad3.5.png">
+N = 5kW
+n = 950/min|s^-1
+L = 40mm
+d = 30mm
+'M=N/n*60/(2*pi), ale już przeliczone obroty'
+M = N/n/(2*pi)|Nm
+b = 8mm
+h = 7mm
+
+'p = 4*M/(b*h*l_0)'
+p_dop = 160MPa
+l_0 = 4*M/(b*h*p_dop)|mm
+l = l_0 + 2*b/2
+'przyjmujemy'
+L = 32mm
+
