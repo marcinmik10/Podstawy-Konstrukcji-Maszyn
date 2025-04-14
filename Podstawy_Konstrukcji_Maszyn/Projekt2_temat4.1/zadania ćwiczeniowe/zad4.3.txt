@@ -1,0 +1,33 @@
+'<img style="height:266pt; width:474pt;" src="./Images/zad4.3.png" alt="zad4.3.png">
+'klasa 4.6
+Rm = 400MPa
+Re = 60%*Rm
+kr = 0.6*Re
+ks = 0.4*Re
+'z tablicy dla gwintu M16:
+d2 = 14.76mm'śr podziałowa
+d3 = 13.55mm' śr rdzenia
+mu = 0.1
+w = 50mm
+c = 115mm
+α = 30
+α_r = 60
+p = 2mm'zakładamy podziałkę równą skokowi
+'liczymy pozorny kąt tarcia
+γ = atan(p/(pi*d2))
+ρ = atan(mu/(cos(α_r/2)))
+'σ_r = Q/A=4*Q/(pi*d3^2) 
+'τ_s = 8*Q*dz*tan(γ + ρ)/(pi*d3^3)
+'σ_z = sqrt(σ_r^2 + (kr/ks*τ_s)^2)
+'σ_z = sqrt(16*Q^2/(pi^2*d3^4) + 64*Q^2*d2^2*tan(γ + ρ)^2*kr^2/(pi^2*d3^6*ks^2))
+Q = kr/(sqrt(16/(pi^2*d3^4) + 64*d2^2*tan(γ + ρ)^2*kr^2/(pi^2*d3^6*ks^2)))
+
+'liczymy maksymalną siłę tarcia jaką można przenieść
+T_max = Q*mu|N
+
+'obraze
+
+
+
+
+

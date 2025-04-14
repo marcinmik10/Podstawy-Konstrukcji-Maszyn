@@ -15,8 +15,4 @@ Ft = 2*Ms/(n*mu*D)
 x_e = 1.5
 kr = Re/x_e
 'wtedy
-d_3 = sqrt(4*Ft/(pi*kr))|mm
-'dobieramy śrubę
-"Dobieram M5x0,5
- 
-
+d_3 = sqrt(x)
