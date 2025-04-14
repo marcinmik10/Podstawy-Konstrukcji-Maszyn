@@ -1,0 +1,7 @@
+'<img style="height:143pt; width:435pt;" src="./Images/zad4.4.png" alt="zad4.4.png">
+
+Ms = 500Nm
+D = 320mm
+mu = 0.14
+n = 8
+k = 4.8
