@@ -1,1 +1,5 @@
-'<img style="height:304pt; width:479pt;" src="D:/Podstawy-Konstrukcji-Maszyn/Podstawy_Konstrukcji_Maszyn/Projekt2_temat4.1/Images/temat.png" alt="temat.png">
+'<img style="height:304pt; width:479pt;" src=".\zadania ćwiczeniowe\Images/temat.png" alt="temat.png">
+P = 32kN
+L1 = 350mm
+α = 0
+
