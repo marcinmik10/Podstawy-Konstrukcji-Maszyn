@@ -2,4 +2,11 @@
 P = 32kN
 L1 = 350mm
 α = 0
+"Obliczenie połączenia sworzniowego"
+
+"Obliczenie połączenia spawanego"
+
+
+"Obliczenie połączenia śrubowego"
+
 

@@ -16,7 +16,12 @@
 * widełek dla połączenia sworzniowego z warunku na rozciąganie oraz na naciski powierzchniowe w otworach,
 * połączeń spawanych,
 * w przypadku pozostałych elementów konstrukcji dobrać niewiadome wymiary.
-3. Dobrać materiały dla wszystkich wykonywanych elementów oraz dobrać elementy katalogowe i znormalizowane.
-4. Wykonać rysunek złożeniowy konstrukcji.
+3. Obliczyć elementy śruby rzymskiej jak: wysokość
+nakrętki z warunku na naciski powierzchniowe oraz przekrój nakrętki z warunku na
+rozciąganie siłą P.
+3. Do projektu dobrać profil okrągły (pręt lub kształtownik rurowy).
+4. Dobrać materiały dla wszystkich wykonywanych elementów oraz dobrać elementy katalogowe i znormalizowane.
+5. Wykonać rysunek złożeniowy konstrukcji.
+
 
 ---
