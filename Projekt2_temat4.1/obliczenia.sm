@@ -4,7 +4,7 @@
   <settings ppi="96">
     <identity>
       <id>99e45f04-2ecd-4dde-9401-0fb12fd2ac1b</id>
-      <revision>33</revision>
+      <revision>35</revision>
     </identity>
     <metadata lang="pol">
       <title>Formatka PKM</title>
@@ -983,10 +983,10 @@
         </regions>
       </text>
     </region>
-    <region left="693" top="3177" width="282" height="26" color="#000000" fontSize="12">
+    <region left="324" top="3150" width="335" height="26" color="#000000" fontSize="12">
       <text lang="pol" fontFamily="Arial" fontSize="12">
         <content>
-          <p>gdzie d - średnica zewnętrzna gwintu,</p>
+          <p>Powierzchnia współpracujaca jednego zwoju:</p>
         </content>
       </text>
     </region>
@@ -1022,7 +1022,14 @@
         </result>
       </math>
     </region>
-    <region left="693" top="3204" width="268" height="26" color="#000000" fontSize="12">
+    <region left="738" top="3222" width="282" height="26" color="#000000" fontSize="12">
+      <text lang="pol" fontFamily="Arial" fontSize="12">
+        <content>
+          <p>gdzie d - średnica zewnętrzna gwintu,</p>
+        </content>
+      </text>
+    </region>
+    <region left="738" top="3249" width="268" height="26" color="#000000" fontSize="12">
       <text lang="pol" fontFamily="Arial" fontSize="12">
         <content>
           <p>D_1 - średnica wewnętrzna nakrętki</p>
@@ -1132,6 +1139,20 @@
           <e type="operand">1</e>
         </result>
       </math>
+    </region>
+    <region left="342" top="3717" width="311" height="35" color="#000000" fontSize="18" isBreakable="false">
+      <text lang="pol" fontFamily="Arial" fontSize="12">
+        <content>
+          <p style="font-weight: bold; font-size: 18px;"> Dobór profilu elementów:</p>
+        </content>
+      </text>
+    </region>
+    <region left="342" top="3762" width="533" height="26" color="#000000" fontSize="12">
+      <text lang="pol" fontFamily="Arial" fontSize="12">
+        <content>
+          <p>Dla przekrojów A-A i B-B dobrano pręty stalowe S235 o średnicy ϕ50 mm</p>
+        </content>
+      </text>
     </region>
   </regions>
 </worksheet>
