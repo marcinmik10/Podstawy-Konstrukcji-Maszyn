@@ -4,7 +4,7 @@
   <settings ppi="96">
     <identity>
       <id>99e45f04-2ecd-4dde-9401-0fb12fd2ac1b</id>
-      <revision>35</revision>
+      <revision>37</revision>
     </identity>
     <metadata lang="pol">
       <title>Formatka PKM</title>
@@ -1080,6 +1080,13 @@
         </input>
       </math>
     </region>
+    <region left="567" top="3474" width="202" height="26" color="#000000" fontSize="12">
+      <text lang="pol" fontFamily="Arial" fontSize="12">
+        <content>
+          <p>j- minimalna liczba zwojów</p>
+        </content>
+      </text>
+    </region>
     <region left="342" top="3528" width="197" height="54" color="#000000" fontSize="12">
       <math>
         <input>
@@ -1106,7 +1113,7 @@
             <math>
               <input>
                 <e type="operand">j</e>
-                <e type="operand">4</e>
+                <e type="operand">3</e>
                 <e type="operator" args="2">:</e>
               </input>
             </math>
@@ -1114,18 +1121,21 @@
         </regions>
       </text>
     </region>
-    <region left="342" top="3627" width="449" height="26" color="#000000" fontSize="12">
+    <region left="342" top="3627" width="738" height="26" color="#000000" fontSize="12">
       <text lang="pol" fontFamily="Arial" fontSize="12">
         <content>
-          <p>Wtedy długość potrzebnego gwintu wynosi: dla skoku 2,5'mm</p>
+          <p>Wtedy wysokość nakrętki dla skoku 2,5'mm, z uwzględnieniem zapasu na zakończenie gwintu wynosi:</p>
         </content>
       </text>
     </region>
-    <region left="342" top="3663" width="172" height="27" color="#000000" fontSize="12">
+    <region left="342" top="3663" width="271" height="29" color="#000000" fontSize="12">
       <math>
         <input>
-          <e type="operand">l</e>
+          <e type="operand">H</e>
           <e type="operand">j</e>
+          <e type="operand">1.5</e>
+          <e type="operator" args="2">+</e>
+          <e type="bracket">(</e>
           <e type="operand">2.5</e>
           <e type="operator" args="2">*</e>
           <e type="operand" style="unit">mm</e>
@@ -1136,7 +1146,7 @@
           <e type="operand" style="unit">cm</e>
         </contract>
         <result action="numeric">
-          <e type="operand">1</e>
+          <e type="operand">1.125</e>
         </result>
       </math>
     </region>
