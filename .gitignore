@@ -1,0 +1,18 @@
+# Inventor temporary and cache files
+*.log
+*.bak
+*.lck
+*.lock
+*.old
+*.tmp
+*.xml
+~$*
+
+# Autodesk Inventor Data
+*.ipj
+
+# Inventor recovery files
+*.emf
+*.err
+*.dwl*
+*.idw.autobackup
