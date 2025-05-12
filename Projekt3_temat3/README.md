@@ -1,4 +1,4 @@
-# Projekt II: Zespół połączeń
+# Projekt III: Mechanizm wraz z przeniesieniem napędu
 
 ## Spis treści
 1. [Opis projektu](#opis-projektu)
@@ -6,7 +6,7 @@
 ---
 
 ## Opis projektu
-**Projekt III: Układ napędowy**
+**Projekt III: Mechanizm wraz z przeniesieniem napędu**
 1. Zakres zadania obejmuje:
 * wykonanie szkicu wciągarki w skali z uwzględnieniem zadanych wymiarów,
 * wyznaczanie obciążeń działających na układ oraz reakcji w podporach,
