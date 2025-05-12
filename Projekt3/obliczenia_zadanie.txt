@@ -1,0 +1,12 @@
+Fr = 1405.73N
+Fa = 680.97N
+r = 129.47mm
+l = 180mm
+a = 80mm
+
+FRa1 = (Fr*(l - a) - Fa*r)/l|N
+FRb1 = Fr - FRa1
+MgA = FRb1*l - Fr*a + Fa*r|Nm
+
+
+
