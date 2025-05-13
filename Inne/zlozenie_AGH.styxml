@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Export>
+
+  <!--Exported by Autodesk Inventor Version 29.2 Production Candidate-->
+
+  <!--The schema of this file is subject to change without notice and is not guaranteed to remain the same from one release to the next.-->
+
+  <Text Version="6">
+    <Style Angle="0" AspectRatio="1" Color="0 0 0 1" EditFlag="0" FontFace="Tahoma" FontSize="0.35" HorizontalJustification="0" InternalName="1:Note Text (ISO)&#xA;" IsBold="0" IsColorByLayer="1" IsItalic="0" IsItalicizeSymbols="1" IsUnderline="0" LineSpacingType="0" LineSpacingValue="1" VerticalJustification="0">
+      <Name Description="" Language="1045">Tekst notatki (ISO)</Name>
+      <Name Description="" Language="1028">註記文字 (ISO)</Name>
+      <Name Description="" Language="1029">Text poznámky (ISO)</Name>
+      <Name Description="" Language="1031">Notiztext (ISO)</Name>
+      <Name Description="" Language="1033">Note Text (ISO)</Name>
+      <Name Description="" Language="1036">Texte de note (ISO)</Name>
+      <Name Description="" Language="1038">Megjegyzésszöveg (ISO)</Name>
+      <Name Description="" Language="1040">Testo nota (ISO)</Name>
+      <Name Description="" Language="1041">Note Text (ISO)</Name>
+      <Name Description="" Language="1042">주 텍스트 (ISO)</Name>
+      <Name Description="" Language="1046">Texto da nota (ISO)</Name>
+      <Name Description="" Language="1049">Пояснительный текст (ISO)</Name>
+      <Name Description="" Language="2052">注释文本 (ISO)</Name>
+      <Name Description="" Language="3082">Texto de nota (ISO)</Name>
+    </Style>
+  </Text>
+
+  <Text Version="6">
+    <Style Angle="0" AspectRatio="1" Color="0 0 0 1" EditFlag="0" FontFace="Tahoma" FontSize="0.35" HorizontalJustification="0" InternalName="1:Note Text (ISO)&#xA;" IsBold="0" IsColorByLayer="1" IsItalic="0" IsItalicizeSymbols="1" IsUnderline="0" LineSpacingType="0" LineSpacingValue="1" VerticalJustification="0">
+      <Name Description="" Language="1045">Tekst notatki (ISO)</Name>
+      <Name Description="" Language="1028">註記文字 (ISO)</Name>
+      <Name Description="" Language="1029">Text poznámky (ISO)</Name>
+      <Name Description="" Language="1031">Notiztext (ISO)</Name>
+      <Name Description="" Language="1033">Note Text (ISO)</Name>
+      <Name Description="" Language="1036">Texte de note (ISO)</Name>
+      <Name Description="" Language="1038">Megjegyzésszöveg (ISO)</Name>
+      <Name Description="" Language="1040">Testo nota (ISO)</Name>
+      <Name Description="" Language="1041">Note Text (ISO)</Name>
+      <Name Description="" Language="1042">주 텍스트 (ISO)</Name>
+      <Name Description="" Language="1046">Texto da nota (ISO)</Name>
+      <Name Description="" Language="1049">Пояснительный текст (ISO)</Name>
+      <Name Description="" Language="2052">注释文本 (ISO)</Name>
+      <Name Description="" Language="3082">Texto de nota (ISO)</Name>
+    </Style>
+  </Text>
+
+  <Text Version="6">
+    <Style Angle="0" AspectRatio="1" Color="0 0 0 1" EditFlag="0" FontFace="Tahoma" FontSize="0.35" HorizontalJustification="0" InternalName="1:Note Text (ISO)&#xA;" IsBold="0" IsColorByLayer="1" IsItalic="0" IsItalicizeSymbols="1" IsUnderline="0" LineSpacingType="0" LineSpacingValue="1" VerticalJustification="0">
+      <Name Description="" Language="1045">Tekst notatki (ISO)</Name>
+      <Name Description="" Language="1028">註記文字 (ISO)</Name>
+      <Name Description="" Language="1029">Text poznámky (ISO)</Name>
+      <Name Description="" Language="1031">Notiztext (ISO)</Name>
+      <Name Description="" Language="1033">Note Text (ISO)</Name>
+      <Name Description="" Language="1036">Texte de note (ISO)</Name>
+      <Name Description="" Language="1038">Megjegyzésszöveg (ISO)</Name>
+      <Name Description="" Language="1040">Testo nota (ISO)</Name>
+      <Name Description="" Language="1041">Note Text (ISO)</Name>
+      <Name Description="" Language="1042">주 텍스트 (ISO)</Name>
+      <Name Description="" Language="1046">Texto da nota (ISO)</Name>
+      <Name Description="" Language="1049">Пояснительный текст (ISO)</Name>
+      <Name Description="" Language="2052">注释文本 (ISO)</Name>
+      <Name Description="" Language="3082">Texto de nota (ISO)</Name>
+    </Style>
+  </Text>
+
+  <PartsList Version="3">
+    <Style AutoSort="0" Direction="1" DisplayParticipants="0" DisplayTitle="0" EditFlag="0" Grouping="1" GroupingDisplayGroupedItemNumber="0" Heading="2" HeadingGap="0.09" InsideLineColor="0:0:0:255" InsideLineWeight="1" InternalName="1:Kopia Lista części (ISO-AIP)&#xA;" IsInsideLineColorByLayer="1" IsInsideLineWeightByLayer="1" IsOutsideLineColorByLayer="1" IsOutsideLineWeightByLayer="1" Key1PropertyID="55" Key1PropertyMemberID="" Key1PropertySet="{32853F0F-3444-11D1-9E93-0060B03C1CA6}" Key2PropertyID="5" Key2PropertyMemberID="" Key2PropertySet="{32853F0F-3444-11D1-9E93-0060B03C1CA6}" Key3PropertyID="5" Key3PropertyMemberID="" Key3PropertySet="{32853F0F-3444-11D1-9E93-0060B03C1CA6}" LinesOfText="0" OutsideLineColor="0:0:0:255" OutsideLineWeight="1" RecoverDefaultPrefix="1" RowGap="0.09" SortNumerically="0" TitleGap="0.09">
+      <SubStyle Collection="Text" Language="1045" Type="TextStyle">Tekst notatki (ISO)</SubStyle>
+      <SubStyle Collection="Text" Language="1045" Type="HeadingTextStyle">Tekst notatki (ISO)</SubStyle>
+      <SubStyle Collection="Text" Language="1045" Type="TitleTextStyle">Tekst notatki (ISO)</SubStyle>
+      <Title>
+        <Item Language="1045" String="LISTA CZĘŚCI"/>
+      </Title>
+      <Columns>
+        <ColumnItem ColumnWidth="1" ColumnWidthScale="1" DecimalType="0" DisplayUnit="1" FractionStackScale="0.7" FractionStackStyle="-1" FractionalFormat="0" Heading="Nr poz." HeadingFromDataSource="0" HeadingJustification="1" IsString="1" LeadingZeros="0" Precision="3" PropertyID="1" PropertyMemberID="" PropertySet="{BEB6B91C-AF44-4f9b-AD9E-1E0570A168F9}" Substitute="0" SubstituteDecimalType="0" SubstituteDisplayUnit="1" SubstituteFractionStackScale="0.7" SubstituteFractionStackStyle="-1" SubstituteFractionalFormat="0" SubstituteLeadingZeros="0" SubstituteMergeResult="0" SubstitutePrecision="3" SubstitutePropertyID="" SubstitutePropertyMemberID="" SubstitutePropertySet="" SubstituteTrailingZeros="0" SubstituteUnitFormat="0" SubstituteUnitType="5" TrailingZeros="0" UnitFormat="0" UnitType="5" ValueJustification="1">
+          <PropertyExternalName>
+            <Item Language="1045" String="Nr poz."/>
+          </PropertyExternalName>
+          <SubstitutePropertyExternalName>
+            <Item Language="1045" String=""/>
+          </SubstitutePropertyExternalName>
+        </ColumnItem>
+        <ColumnItem ColumnWidth="7.5" ColumnWidthScale="1" DecimalType="0" DisplayUnit="1" FractionStackScale="0.7" FractionStackStyle="-1" FractionalFormat="0" Heading="Nazwa" HeadingFromDataSource="0" HeadingJustification="1" IsString="1" LeadingZeros="0" Precision="3" PropertyID="29" PropertyMemberID="" PropertySet="{32853F0F-3444-11D1-9E93-0060B03C1CA6}" Substitute="0" SubstituteDecimalType="0" SubstituteDisplayUnit="1" SubstituteFractionStackScale="0.7" SubstituteFractionStackStyle="-1" SubstituteFractionalFormat="0" SubstituteLeadingZeros="0" SubstituteMergeResult="0" SubstitutePrecision="3" SubstitutePropertyID="" SubstitutePropertyMemberID="" SubstitutePropertySet="" SubstituteTrailingZeros="0" SubstituteUnitFormat="0" SubstituteUnitType="5" TrailingZeros="0" UnitFormat="0" UnitType="5" ValueJustification="0">
+          <PropertyExternalName>
+            <Item Language="1045" String="Nazwa"/>
+          </PropertyExternalName>
+          <SubstitutePropertyExternalName>
+            <Item Language="1045" String=""/>
+          </SubstitutePropertyExternalName>
+        </ColumnItem>
+        <ColumnItem ColumnWidth="1" ColumnWidthScale="1" DecimalType="0" DisplayUnit="1" FractionStackScale="0.7" FractionStackStyle="-1" FractionalFormat="0" Heading="Szt." HeadingFromDataSource="0" HeadingJustification="1" IsString="1" LeadingZeros="0" Precision="3" PropertyID="2" PropertyMemberID="" PropertySet="{BEB6B91C-AF44-4f9b-AD9E-1E0570A168F9}" Substitute="1" SubstituteDecimalType="1" SubstituteDisplayUnit="1" SubstituteFractionStackScale="0.7" SubstituteFractionStackStyle="-1" SubstituteFractionalFormat="0" SubstituteLeadingZeros="1" SubstituteMergeResult="1" SubstitutePrecision="2" SubstitutePropertyID="PL" SubstitutePropertyMemberID="" SubstitutePropertySet="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" SubstituteTrailingZeros="0" SubstituteUnitFormat="1" SubstituteUnitType="0" TrailingZeros="0" UnitFormat="0" UnitType="5" ValueJustification="1">
+          <PropertyExternalName>
+            <Item Language="1045" String="Szt."/>
+          </PropertyExternalName>
+          <SubstitutePropertyExternalName>
+            <Item Language="1045" String=""/>
+          </SubstitutePropertyExternalName>
+        </ColumnItem>
+        <ColumnItem ColumnWidth="3.5" ColumnWidthScale="1" DecimalType="0" DisplayUnit="1" FractionStackScale="0.7" FractionStackStyle="-1" FractionalFormat="0" Heading="Nr rysunku/normy" HeadingFromDataSource="0" HeadingJustification="1" IsString="1" LeadingZeros="0" Precision="3" PropertyID="5" PropertyMemberID="" PropertySet="{32853F0F-3444-11D1-9E93-0060B03C1CA6}" Substitute="0" SubstituteDecimalType="0" SubstituteDisplayUnit="1" SubstituteFractionStackScale="0.7" SubstituteFractionStackStyle="-1" SubstituteFractionalFormat="0" SubstituteLeadingZeros="0" SubstituteMergeResult="0" SubstitutePrecision="3" SubstitutePropertyID="" SubstitutePropertyMemberID="" SubstitutePropertySet="" SubstituteTrailingZeros="0" SubstituteUnitFormat="0" SubstituteUnitType="5" TrailingZeros="0" UnitFormat="0" UnitType="5" ValueJustification="0">
+          <PropertyExternalName>
+            <Item Language="1045" String="Nr rysunku/normy"/>
+          </PropertyExternalName>
+          <SubstitutePropertyExternalName>
+            <Item Language="1045" String=""/>
+          </SubstitutePropertyExternalName>
+        </ColumnItem>
+        <ColumnItem ColumnWidth="2" ColumnWidthScale="1" DecimalType="0" DisplayUnit="1" FractionStackScale="0.7" FractionStackStyle="-1" FractionalFormat="0" Heading="Materiał" HeadingFromDataSource="0" HeadingJustification="1" IsString="1" LeadingZeros="0" Precision="3" PropertyID="5" PropertyMemberID="" PropertySet="{BEB6B91C-AF44-4f9b-AD9E-1E0570A168F9}" Substitute="0" SubstituteDecimalType="0" SubstituteDisplayUnit="1" SubstituteFractionStackScale="0.7" SubstituteFractionStackStyle="-1" SubstituteFractionalFormat="0" SubstituteLeadingZeros="0" SubstituteMergeResult="0" SubstitutePrecision="3" SubstitutePropertyID="" SubstitutePropertyMemberID="" SubstitutePropertySet="" SubstituteTrailingZeros="0" SubstituteUnitFormat="0" SubstituteUnitType="5" TrailingZeros="0" UnitFormat="0" UnitType="5" ValueJustification="0">
+          <PropertyExternalName>
+            <Item Language="1045" String="Materiał"/>
+          </PropertyExternalName>
+          <SubstitutePropertyExternalName>
+            <Item Language="1045" String=""/>
+          </SubstitutePropertyExternalName>
+        </ColumnItem>
+        <ColumnItem ColumnWidth="1.5" ColumnWidthScale="1" DecimalType="0" DisplayUnit="1" FractionStackScale="0.7" FractionStackStyle="-1" FractionalFormat="0" Heading="Masa" HeadingFromDataSource="0" HeadingJustification="1" IsString="1" LeadingZeros="0" Precision="3" PropertyID="4" PropertyMemberID="" PropertySet="{BEB6B91C-AF44-4f9b-AD9E-1E0570A168F9}" Substitute="0" SubstituteDecimalType="0" SubstituteDisplayUnit="1" SubstituteFractionStackScale="0.7" SubstituteFractionStackStyle="-1" SubstituteFractionalFormat="0" SubstituteLeadingZeros="0" SubstituteMergeResult="0" SubstitutePrecision="3" SubstitutePropertyID="" SubstitutePropertyMemberID="" SubstitutePropertySet="" SubstituteTrailingZeros="0" SubstituteUnitFormat="0" SubstituteUnitType="5" TrailingZeros="0" UnitFormat="0" UnitType="5" ValueJustification="0">
+          <PropertyExternalName>
+            <Item Language="1045" String="Masa"/>
+          </PropertyExternalName>
+          <SubstitutePropertyExternalName>
+            <Item Language="1045" String=""/>
+          </SubstitutePropertyExternalName>
+        </ColumnItem>
+        <ColumnItem ColumnWidth="2" ColumnWidthScale="1" DecimalType="0" DisplayUnit="1" FractionStackScale="0.7" FractionStackStyle="-1" FractionalFormat="0" Heading="Uwagi" HeadingFromDataSource="0" HeadingJustification="1" IsString="1" LeadingZeros="0" Precision="3" PropertyID="17" PropertyMemberID="" PropertySet="{32853F0F-3444-11d1-9E93-0060B03C1CA6}" Substitute="0" SubstituteDecimalType="0" SubstituteDisplayUnit="1" SubstituteFractionStackScale="0.7" SubstituteFractionStackStyle="-1" SubstituteFractionalFormat="0" SubstituteLeadingZeros="0" SubstituteMergeResult="0" SubstitutePrecision="3" SubstitutePropertyID="" SubstitutePropertyMemberID="" SubstitutePropertySet="" SubstituteTrailingZeros="0" SubstituteUnitFormat="0" SubstituteUnitType="5" TrailingZeros="0" UnitFormat="0" UnitType="5" ValueJustification="0">
+          <PropertyExternalName>
+            <Item Language="1045" String="Uwagi"/>
+          </PropertyExternalName>
+          <SubstitutePropertyExternalName>
+            <Item Language="1045" String=""/>
+          </SubstitutePropertyExternalName>
+        </ColumnItem>
+      </Columns>
+      <FilterList/>
+      <Key1PropertyExternalName>
+        <Item Language="1045" String="NUMER KATALOGOWY"/>
+      </Key1PropertyExternalName>
+      <Key2PropertyExternalName>
+        <Item Language="1045" String="Nr rysunku/normy"/>
+      </Key2PropertyExternalName>
+      <Key3PropertyExternalName>
+        <Item Language="1045" String="Nr rysunku/normy"/>
+      </Key3PropertyExternalName>
+      <Name Description="" Language="1045">zlozenie_AGH</Name>
+    </Style>
+  </PartsList>
+
+</Export>
