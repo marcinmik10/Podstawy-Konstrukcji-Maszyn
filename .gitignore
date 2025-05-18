@@ -9,7 +9,7 @@
 ~$*
 
 # Autodesk Inventor Data
-*.ipj
+#*.ipj
 
 # Inventor recovery files
 *.emf
