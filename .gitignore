@@ -17,3 +17,19 @@
 *.dwl*
 *.idw.autobackup
 *OldVersions*
+
+# Inventor temporary files
+*.log
+*.bak
+*.tmp
+*.err
+
+# Auto-generated files (opcjonalnie)
+*.ipj.autobackup
+
+# System folders
+.DS_Store
+Thumbs.db
+
+# Lock files
+*.lck
