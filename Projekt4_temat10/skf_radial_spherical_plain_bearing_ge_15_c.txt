@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-27072018-073779";"";
+"REFERENCE";"GE 15 C";"";
+"TraceParts.PartVersion";"1.2.2";"";
+"TraceParts.InstanceId";"33-27072018-073779DK9STLF7O0X7JJJGELD8JT086";"";
+"TraceParts.PartTitle";"Radial spherical plain bearings";"";
+"SUPPLIER";"SKF";"";
+"DESIGN";"Radial spherical plain bearing, Bore Ø 15 mm, Outside Ø 26 mm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"0.032";"";
